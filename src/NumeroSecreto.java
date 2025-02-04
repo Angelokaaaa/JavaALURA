@@ -1,6 +1,9 @@
 import java.util.Random;
 import java.util.Scanner;
 
+// Desafio independente
+// Curso da ALURA: Java: criando a sua primeira aplicação
+
 public class NumeroSecreto {
 
     public static void main(String[] args) {
